@@ -1,7 +1,9 @@
-# tdsticks.github.io
-My Github Page
+# Steve Stickel's Projects
 
-Here's a list of projects I've worked on:
+[My Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2022.pdf)
+
+
+My list of projects I've worked on:
 
 - Project 1
   - This is my project 1
