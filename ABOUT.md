@@ -7,6 +7,7 @@ filename: ABOUT.md
 <!-- layout: template -->
 
 ## About Me
+### Early Years
 I've been in tech and loved it since I was a child. I recall my father getting a Commodore 64
 our the house when I was around 4. I enjoyed playing games on it while he dabbled in basic. 
 From there, he started building 8086 machines as I got older and we frequently visited 
@@ -22,6 +23,23 @@ my journey. Along the way, I was taking art classes, as I was still very passion
 pursuing a 3d animation dream. Much of this dream was inspired by watching plenty of cartoons
 and the introduction of CG in the movie industry. I loved watching the TV series 
 [Movie Magic](https://www.imdb.com/title/tt0108865/) in my teenage years which solidified my 
-passion further for the movie industry and 3d animation.
+passion further for the movie industry and 3d animation. This all led me to go to college for 
+3d animation, which I ended up going to a trade school in NC for. Afterwards, I came back home
+to MI and started looking for opportunities.
+
+### My Software Development Journey
+My first office job became a nice stepping stone into my 3d and software development career. I was hired
+to learn and create Flash animations, along with some basic web work. Not 6 months into working
+there, the company was awarded a big project with GM to build a kids environmental-friendly website.
+I was tasked with building, animating and implmenting 3d characters into the Flash site. I worked 
+along side with some great people, one of which was B.K. Taylor, a great artist and one of the creators
+of the pilot of Tool Time with Tim Allen (that's where they got Tim "Taylor" from). So B.K. was creating
+the character art and I was modeling, animating them with voiceovers, then converting the animations to
+vector for Flash. Using Flash at the time was a really challenging, but good experience, since I could 
+also code a bit for the website using Actionscript.
+
+
+
+
 
 [back](./)
