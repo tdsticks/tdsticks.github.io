@@ -1,3 +1,7 @@
+layout: About
+title: "About Me"
+permalink: /about
+
 About Me:
 - I've been in tech and loved it since I was a child. I recall my father getting a Commodore 64
   our the house when I was around 4. I enjoyed playing games on it while he dabbled in basic. 
