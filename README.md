@@ -1,5 +1,7 @@
 # Steve Stickel's Projects
 
+[About](https://tdsticks.github.io/about)
+
 [My Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2022.pdf)
 
 
