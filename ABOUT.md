@@ -35,11 +35,16 @@ there, the company was awarded a big project with GM to build a kids environment
 I was tasked with building, animating and implmenting 3d characters into the Flash site. I worked 
 along side with some great people, one of which was B.K. Taylor, a great artist and one of the creators
 of the pilot of Tool Time with Tim Allen (that's where they got Tim "Taylor" from). So B.K. was creating
-the character art and I was modeling, animating them with voiceovers, then converting the animations to
-vector for Flash. Using Flash at the time was a really challenging, but good experience, since I could 
-also code a bit for the website using Actionscript.
+the character art and I was modeling, animating them (under his direction) with voiceovers, then converting
+the animations to vector for Flash. Using Flash at the time was a really challenging, but good experience, 
+since I could also code a bit for the website using Actionscript.
 
 ##### Freelancing
+After not seeing much growth at the company, I decided to quit and pursue freelancing in web design along
+with attempting to start a web business with a friend of mine. I learned alot during this time early in my
+career. I had a few regular clients and was semi-profitable, but it was also a struggle to grow my business
+into something worth keeping. So after about a year and a half, a friend from the The SEMAFX Network contacted
+me about a CG position at Armstrong-White and I happily took the position.
 
 ##### Armstrong-White
 
