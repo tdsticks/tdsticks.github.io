@@ -55,7 +55,7 @@ me about a CG position at Armstrong-White and I happily took the position.
 ##### Latcha & Associates
 
 ##### Side Projects
-Crypto Bots
+- Crypto Bots
 
 
 
