@@ -6,6 +6,7 @@ description: My list of projects over the years
 # Themes
 # theme: jekyll-theme-minimal
 
+theme: jekyll-theme-midnight
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -25,11 +26,11 @@ github:
 
 
 # Analytics
-analytics:
-  provider:  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id: UA-250702959-1
-# google_analytics: UA-250702959-1
+# analytics:
+#   provider:  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id: UA-250702959-1
+google_analytics: UA-250702959-1
 
 
 # Social Sharing
