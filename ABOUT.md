@@ -1,6 +1,9 @@
-layout: About
+---
 title: "About Me"
+layout: template
 permalink: /about
+filename: ABOUT.md
+---
 
 About Me:
 - I've been in tech and loved it since I was a child. I recall my father getting a Commodore 64
