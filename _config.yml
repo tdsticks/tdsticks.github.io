@@ -1,21 +1,52 @@
-# theme: jekyll-theme-minimal
+# Site Settings
+title: Steve Stickel's Github Page
+description: My list of projects over the years
 
-# remote_theme: pages-themes/slate@v0.2.0
-# plugins:
+
+# Themes
+# theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # remote_theme: pages-themes/tactile@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: Steve Stickel's Github Page
-description: My list of projects over the years
-
+# Github
 github:
   another_url: https://github.com/tdsticks
 
-google_analytics: UA-250702959-1
+
+# Analytics
+analytics:
+  provider:  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: UA-250702959-1
+# google_analytics: UA-250702959-1
+
+
+# Social Sharing
+twitter:
+  username: &smsticks
+
+
+# Site Author
+author:
+  name             : "Sidebar"
+  avatar           : "profile.png"
+  bio              : "This is my bio"
+  location         : "South Carolina"
+  employer         : "Latcha & Associates"
+#   email            :
+#   bitbucket        :
+  github           : "tdsticks"
+  linkedin         : "stickel"
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+  twitter          : "smsticks"
