@@ -21,4 +21,7 @@ About Me:
   then C++ in High School, as there wasn't much support in my school for computer science at
   the time. I struggled with a lot of the concepts, but that didn't keep me from continuing
   my journey. Along the way, I was taking art classes, as I was still very passionate about
-  pursuing a 3d animation dream.
+  pursuing a 3d animation dream. Much of this dream was inspired by watching plenty of cartoons
+  and the introduction of CG in the movie industry. I loved watching the TV series 
+  [Movie Magic](https://www.imdb.com/title/tt0108865/) in my teenage years which solidified my 
+  passion further for the movie industry and 3d animation.
