@@ -28,6 +28,7 @@ passion further for the movie industry and 3d animation. This all led me to go t
 to MI and started looking for opportunities.
 
 ### My Software Development Journey
+##### SV3 Media (start-up)
 My first office job became a nice stepping stone into my 3d and software development career. I was hired
 to learn and create Flash animations, along with some basic web work. Not 6 months into working
 there, the company was awarded a big project with GM to build a kids environmental-friendly website.
@@ -38,8 +39,19 @@ the character art and I was modeling, animating them with voiceovers, then conve
 vector for Flash. Using Flash at the time was a really challenging, but good experience, since I could 
 also code a bit for the website using Actionscript.
 
+##### Freelancing
+
+##### Armstrong-White
+
+##### BNP Media
+
+##### With A Twist Stuido (start-up)
+
+##### Latcha & Associates
+
+##### Side Projects
+Crypto Bots
 
 
 
-
-[back](./)
+[back](tdsticks.github.io)
