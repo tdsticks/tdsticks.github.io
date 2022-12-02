@@ -8,8 +8,8 @@ filename: ABOUT.md
 
 ## About Me
 ### Early Years
-I've been in tech and loved it since I was a child. I recall my father getting a Commodore 64
-our the house when I was around 4. I enjoyed playing games on it while he dabbled in basic. 
+I've been passionate about technology since I was a child. I recall my father getting a Commodore 64
+for our the house when I was around 4. I enjoyed playing games on it while he dabbled in basic. 
 From there, he started building 8086 machines as I got older and we frequently visited 
 computer trade shows on the weekend to upgrade and enhance our home computers. I've always
 had a fascination with computers with building them, gaming and exploring computer graphics.
