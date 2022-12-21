@@ -6,13 +6,13 @@ filename: ABOUT.md
 ---
 <!-- layout: template -->
 
-## My Traits
+## Traits
 - Grit
   - is a positive, non-cognitive trait based on an individual's perseverance of effort combined with the passion for a particular long-term goal or end state (a powerful motivation to achieve an objective).
   - courage and determination despite difficulty.
   - is passion and perseverance for long-term goals.
 
-# My History
+# History
 ### Early Years
 I've been passionate about technology since I was a child. I recall my father getting a Commodore 64
 for our the house when I was around 4. I enjoyed playing games on it while he dabbled in basic. 
