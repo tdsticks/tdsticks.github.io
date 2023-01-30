@@ -2,7 +2,7 @@
 
 [About](https://tdsticks.github.io/about)
 
-[My Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2022.pdf)
+[My Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2023.pdf)
 
 
 My list of projects I've worked on:
