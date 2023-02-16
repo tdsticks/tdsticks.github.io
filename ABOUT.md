@@ -54,7 +54,11 @@ me about a CG position at Armstrong-White and I happily took the position.
 
 ##### Armstrong-White
 
+Getting that phone call to work at an actual studio / small agency was a dream come true. On top of that, they were looking for 3D artists to help with the digital garage everyone in the industry was chasing after. Taking engineering CAD data and making it usable for marketing purposes was a ground breaking movement within the automotive industry. During this time at AW, I was exposed to a lot of great people, technologies and platforms while working 60-80 hour weeks. Although, I started off as an artist cleaning, manipulating and rendering 3d automotive vehicles, I took a turn for more of a technical role in writing scripts for the 3d artists. Also, I become very intrigued with the renderfarm and how I could make it run more efficiently. Eventually, things took a turn with the industry and many eventually became laid off, including myself. I was tempted to go back to being self-employed and did have one contract job while seeking my next opportunity, but my unemployment didn't last very long.
+
 ##### BNP Media
+
+
 
 ##### With A Twist Stuido (start-up)
 
