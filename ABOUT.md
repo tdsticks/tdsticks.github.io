@@ -30,6 +30,8 @@ Receiving the phone call offering me a position at an actual studio/small agency
 A close friend and mentor approached me with an exciting job prospect as a web developer for BNP Media, a leading publishing company. Although it was a transition from my previous 3d work, the opportunity allowed me to expand my coding and development skills within a corporate environment. At BNP Media, I primarily used Flash Actionscript and Javascript to create a dynamic digital magazine platform for over 40 of the company's publications. Additionally, I gained invaluable experience collaborating with editors and publishers, as my department was the central hub for support and development of each publication, which each operated as a separate business entity.
 
 ##### With A Twist Stuido (start-up)
+While I was feeling like I had hit a plateau at BNP Media, a colleague from Armstrong-White approached me about a new VFX business they had just launched. They were in need of a technical developer due to their growth and I didn't hesitate to take the position. During my time at With A Twist Studio, I faced a tremendous amount of good and at times fun challenges. Not only was I responsible for the entire studio from a technical standpoint, but I was also tasked with supporting the production team's pipeline by writing automated Python scripts and managing the render farm. This was where I first started using Python, incorporating it into every aspect of my job and daily tasks. I loved working there, and the people and culture were amazing.
+
 
 ##### Latcha & Associates
 
