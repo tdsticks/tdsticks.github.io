@@ -49,8 +49,10 @@ Currently, I am working on a few new proof-of-concepts, some of which involve us
 
 
 ##### Side Projects
-- Crypto Bots
-  - I began my journey into the world of cryptocurrency in the fall of 2017, just before the prices of Bitcoin and other cryptocurrencies skyrocketed. What initially captivated me about this field was not just the potential to earn profits, but also the prospect of automating trades. As a result, I began researching successful traders, trading platforms, and various trading strategies.
+
+###### Crypto Bots
+
+I began my journey into the world of cryptocurrency in the fall of 2017, just before the prices of Bitcoin and other cryptocurrencies skyrocketed. What initially captivated me about this field was not just the potential to earn profits, but also the prospect of automating trades. As a result, I began researching successful traders, trading platforms, and various trading strategies.
 
 Over the past five years, I have gained a wealth of knowledge in trading and bot creation. However, the most significant lesson that I have learned is the psychology of money and how to maintain objectivity in the face of market fluctuations.
 
