@@ -4,6 +4,7 @@
 
 [My Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2023.pdf)
 
+[LinkedIn](https://www.linkedin.com/in/stickel/)
 
 My list of projects I've worked on:
 
