@@ -6,13 +6,10 @@ filename: ABOUT.md
 ---
 <!-- layout: template -->
 
-## Traits
-- SME (Subject Matter Expert)
-  - I often find myself getting into positions where either no one wants to step up to the plate and take on difficult challenges or no one is capable of such challenges within my sphere.
-- Grit
-  - is a positive, non-cognitive trait based on an individual's perseverance of effort combined with the passion for a particular long-term goal or end state (a powerful motivation to achieve an objective).
-  - courage and determination despite difficulty.
-  - is passion and perseverance for long-term goals.
+## Personal Traits
+- Subject Matter Expertise (SME): I frequently find myself in situations where either no one is willing to take on challenging tasks or no one within my sphere has the necessary skills for such tasks.
+
+- Grit: It is a positive non-cognitive trait that is based on an individual's perseverance and passion for a particular long-term goal or end state. It involves having the courage and determination to overcome difficulties and entails a steadfast commitment to achieving one's objectives.
 
 # History
 ### Early Years
