@@ -7,9 +7,14 @@ filename: ABOUT.md
 <!-- layout: template -->
 
 ## Personality Traits
-- Subject Matter Expertise (SME): I frequently find myself in situations where either no one is willing to take on challenging tasks or no one within my sphere has the necessary skills for such tasks.
-
-- Grit: It is a positive non-cognitive trait that is based on an individual's perseverance and passion for a particular long-term goal or end state. It involves having the courage and determination to overcome difficulties and entails a steadfast commitment to achieving one's objectives.
+- Grit: the ability to persevere and overcome obstacles in pursuit of long-term goals
+- Initiative: the willingness to take action and assume responsibility without being asked
+- Resourcefulness: the ability to find creative solutions to problems and overcome constraints
+- Expertise: a deep knowledge and understanding of a particular subject or domain
+- Tenacity: the ability to persist in the face of difficulty and maintain focus on goals
+- Leadership: the ability to inspire and motivate others to achieve shared objectives
+- Curiosity: a strong desire to learn and explore new ideas and concepts
+- Flexibility: the willingness to adapt to changing circumstances and adjust course as needed.
 
 
 # History
