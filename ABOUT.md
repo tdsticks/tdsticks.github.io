@@ -48,9 +48,18 @@ Realizing that it was time to move on from With A Twist Studio, I reached out to
 
 Later, I managed my own email account for VW Credit alongside two other developers. When that contract was up, I was presented with the opportunity to form a research and development department at Latcha. As the lead developer, I have been working on numerous proof-of-concepts, including creating an object detection mobile app using Python, Tensorflow, and Xcode, as well as a TTS using voice AI technology. Another exciting project was building an entire marketing platform in the Cloud, which required a deep dive into learning AWS while also figuring out how to architect and build the platform. Additionally, I had to develop training materials for our Delhi office in India.
 
-More recently, I have taken one of our proof-of-concepts into production with a Ford pilot project, using my standard tech stack of Django, MySQL, Docker, Copilot, and AWS (ECS, RDS, ELB, S3, and CloudFront) to build an API with a content ingestion and management system. The API feeds content to a native mobile app based on the user scanning their VIN. I accessed a few other APIs from Ford to pull data using that VIN and then formulated a content package to respond back to the mobile app, providing the customer's actual vehicle specifics (trim, color, options, etc.).
+I have taken one of our proof-of-concepts into production with a Ford pilot project for the 2023 Expedition, using my standard tech stack of Django, MySQL, Docker, Copilot, and AWS (ECS, RDS, ELB, S3, and CloudFront) to build an API with a content ingestion and management system. The API feeds content to a native mobile app based on the user scanning their VIN. I accessed a few other APIs from Ford to pull data using that VIN and then formulated a content package to respond back to the mobile app, providing the customer's actual vehicle specifics (trim, color, options, etc.).
 
-Currently, I am working on a few new proof-of-concepts, some of which involve using OpenAI, as well as using Django Wagtail (CMS) to build a client website.
+This year I've been quite busy pushing coding abilites further along with expanding my management skills. Some of the more recent projects I've been working on are: 
+
+Building a boat configurator using Django for the API. The project has presented many challenges that I've enjoyed solving. One of these chanelenges was that the boat company did not provide clean or usable configuration data in order to build out each of their boats. Our CG department had been working closely with their engineering team to help extract the required data needed. However, I still had to figure out a path to taking that data and turning it into viable configurator data for the API. Also, the clients had brought to our attention that we had to use their instance of Azure which I had experienced yet, just AWS. It took me the course of about five days to dive in a prove out my stack in Azure DevOps and their portal. The project has taken a few turns and was on hold for quite a few months based on the parent clients direction.
+
+Another really great opportunity has been working on a SaaS project for marketing to dealerships. I've always been a big fan of SaaS and I feel it's something our company should be doing more of. This has been my first direct ecommerce development project and after a few weeks of research I choose to use Stripe to handle the customers transactions and subscription management.
+
+
+Managing and mentoring a team of four developers in Delhi, India for a dynamic SaaS marketing project in AWS, leveraging Node.js and SendGrid
+
+
 
 
 ##### Side Projects
