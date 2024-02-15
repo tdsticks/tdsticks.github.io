@@ -6,15 +6,18 @@ filename: ABOUT.md
 ---
 <!-- layout: template -->
 
-## Personality Traits
-- Grit: the ability to persevere and overcome obstacles in pursuit of long-term goals
-- Initiative: the willingness to take action and assume responsibility without being asked
-- Resourcefulness: the ability to find creative solutions to problems and overcome constraints
-- Expertise: a deep knowledge and understanding of a particular subject or domain
-- Tenacity: the ability to persist in the face of difficulty and maintain focus on goals
-- Leadership: the ability to inspire and motivate others to achieve shared objectives
-- Curiosity: a strong desire to learn and explore new ideas and concepts
-- Flexibility: the willingness to adapt to changing circumstances and adjust course as needed.
+## My Skills and What I Can Offer
+- **SDLC Creation and Improvement:** Designing, implementing, and refining Software Development Life Cycle (SDLC) models to enhance productivity and ensure the delivery of high-quality software. Proficient in Agile, Scrum, and Waterfall methodologies, I can tailor the development process to meet project-specific requirements and team dynamics.
+
+- **Project Management:** Strong background in leading software development projects from conception to deployment, ensuring they are completed on time, within budget, and to specifications. Skilled in coordinating cross-functional teams, setting milestones, and managing resources efficiently.
+
+- **Project and Code Documentation:** Commitment to maintaining comprehensive and clear documentation for project planning, requirements, design, and source code. This ensures future maintainability, supports user adoption, and facilitates effective team collaboration.
+
+- **Mentoring:** Passionate about fostering the growth of junior developers by providing guidance, sharing knowledge, and supporting their professional development. Experienced in conducting code reviews, teaching best practices, and promoting a culture of continuous learning.
+
+- **Training:** Skilled in developing and delivering technical training programs tailored to diverse audiences, from new hires to seasoned professionals. Expertise in creating engaging content that covers new technologies, programming languages, and development tools.
+
+- **Process Improvement:** Proven track record of identifying inefficiencies and implementing process improvements to streamline operations, increase productivity, and enhance software quality. Utilizes a data-driven approach to problem-solving and continuous improvement.
 
 
 # History
@@ -58,15 +61,21 @@ This year, I've been quite busy pushing my coding abilities further along with e
 
 - Managing and mentoring a team of four developers in Delhi, India for a dynamic SaaS marketing project in AWS, leveraging Node.js and SendGrid
 
+## Beyond the Code
+When I'm not immersed in the world of software development, you'll find me engaging in a variety of activities that keep my creative and physical energies flowing. My interests range from particing martial arts to the jamming out on my guitar, reflecting a blend of my passion for the arts musically and physically.
 
-##### Side Projects
+**Martial Arts Enthusiast:** My journey in martial arts is more than just a hobby; it's a discipline that teaches me patience, focus, and respect. The practice has not only kept me physically fit but has also instilled a sense of calmness and resilience that I carry into my professional life.
 
-###### Crypto Bots
+**Music:** Whether it's a classic riff or experimenting with my own tunes, playing the guitar is my escape into a world of harmony and melodies. It's a passion that allows me to express creativity in a form different from coding, yet equally fulfilling.
 
-I began my journey into the world of cryptocurrency in the fall of 2017, just before the prices of Bitcoin and other cryptocurrencies skyrocketed. What initially captivated me about this field was not just the potential to earn profits, but also the prospect of automating trades. As a result, I began researching successful traders, trading platforms, and various trading strategies.
+**Home Improvement and Tinkering:** I have a knack for home improvement projects and tinkering with the latest technologies. From smart home gadgets to DIY fixes, I love the satisfaction that comes from enhancing my living space and staying at the forefront of tech trends.
 
-Over the past five years, I have gained a wealth of knowledge in trading and bot creation. However, the most significant lesson that I have learned is the psychology of money and how to maintain objectivity in the face of market fluctuations.
+**Gaming and Family Time:** Playing video games with my kids is one of my favorite ways to unwind and bond. It's not just about the games; it's about sharing laughs, learning from each other, and creating memories.
 
+**Fitness and Culinary Adventures:** Staying active is important to me, whether it's a rigorous exercise session or enjoying the great outdoors in the sun. Cooking is another passion of mine, experimenting with new recipes and flavors, and bringing joy through food to family and friends.
 
+**Sun Seeker:** There's something about the warmth of the sun and nice weather that rejuvenates my spirit. I cherish moments spent outside, whether it's a simple walk, a pool day, or just basking in the tranquility of a sunny day.
+
+In essence, my life outside of work is a mosaic of activities that keep me balanced, inspired, and constantly learning. These hobbies not only enrich my personal life but also enhance my creativity and problem-solving skills in my professional endeavors.
 
 [back](tdsticks.github.io)
