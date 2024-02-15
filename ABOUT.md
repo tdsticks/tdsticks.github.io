@@ -62,7 +62,7 @@ This year, I've been quite busy pushing my coding abilities further along with e
 - Managing and mentoring a team of four developers in Delhi, India for a dynamic SaaS marketing project in using AWS Copilot, leveraging Node.js, React, MySQL, Docker and SendGrid
 
 ## Beyond the Code
-When I'm not immersed in the world of software development, you'll find me engaging in a variety of activities that keep my creative and physical energies flowing. My interests range from particing martial arts to the jamming out on my guitar, reflecting a blend of my passion for the arts musically and physically.
+When I'm not immersed in the world of software development, you'll find me engaging in a variety of activities that keep my creative and physical energies flowing. My interests range from practicing martial arts to jamming out on my guitar, reflecting a blend of my passion for the arts musically and physically.
 
 **Martial Arts Enthusiast:** My journey in martial arts is more than just a hobby; it's a discipline that teaches me patience, focus, and respect. The practice has not only kept me physically fit but has also instilled a sense of calmness and resilience that I carry into my professional life.
 
