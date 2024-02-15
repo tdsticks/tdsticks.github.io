@@ -59,7 +59,7 @@ This year, I've been quite busy pushing my coding abilities further along with e
 
 - Launched in January 2024, the [Dealer Content Group E-Commerce Platform](https://dealercontentgroup.com/) is an innovative e-commerce solution for dealers I led with an international team. Utilizing a tech stack including Django/Python, MySQL, Docker, and Stripe, we created unique products like Dealerized Interactive Buyers Guides and Walk Around Videos, each with distinct challenges. Our diverse team of six, spanning the US and Delhi, effectively managed time zone differences and varied skill sets, while integrating Stripe for flexible payment options. This project, initially an MVP, evolved into a comprehensive product, showcasing our team's dedication and setting new e-commerce standards in this niche. Read more about this [project here](https://www.linkedin.com/in/stickel/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAACraDkByWiriHRFnwDvrdnWqldQGRTZVUc).
 
-- Managing and mentoring a team of four developers in Delhi, India for a dynamic SaaS marketing project in AWS, leveraging Node.js and SendGrid
+- Managing and mentoring a team of four developers in Delhi, India for a dynamic SaaS marketing project in using AWS Copilot, leveraging Node.js, React, MySQL, Docker and SendGrid
 
 ## Beyond the Code
 When I'm not immersed in the world of software development, you'll find me engaging in a variety of activities that keep my creative and physical energies flowing. My interests range from particing martial arts to the jamming out on my guitar, reflecting a blend of my passion for the arts musically and physically.
