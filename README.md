@@ -1,6 +1,6 @@
 # Steve Stickel's Projects
 
-[Bio](https://tdsticks.github.io)
+[Bio](https://tdsticks.github.io/about)
 
 [Resume](https://github.com/tdsticks/resume/blob/master/Steve_Stickel_Resume_2025.pdf)
 
