@@ -13,8 +13,6 @@ My list of projects I've worked on:
   - Using Open AI, generate Markdown documents of the entire project, then formulate an overall project summary. (work in progress)
 - [Django Cookiecutter Template](https://github.com/tdsticks/django_cookiercutter_template)
   - A Django template using Cookiecutter for new Python projects
-- [Django Cookiecutter Template](https://github.com/tdsticks/django_cookiercutter_template)
-  - A Django template using Cookiecutter for new Python projects
 - [Simple Ajax](https://github.com/tdsticks/simple_ajax)
   - A very simple single html page that has AJAX GET and POST calls
 - [My Own Python Library (Stickel)](https://github.com/tdsticks/Stickel)
