@@ -6,6 +6,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/stickel/)
 
+[HackerRank](https://www.hackerrank.com/profile/stevemstickel)
+
 My list of projects I've worked on:
 - [Aurox Signals to Coinbase Advanced API Trading Bot](https://github.com/tdsticks/coinbase-futures-trading-bot)
   - Using the Aurox Signals and trading on the Coinbase Financial Markets (Futures)
